@@ -1,1 +1,2 @@
 Hello! from release notes
+updating the release notes file with version 1.0
